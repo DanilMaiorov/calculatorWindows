@@ -52,5 +52,9 @@
     "sass": "^1.49.9",
     "webpack": "^5.69.1",
     "webpack-stream": "^7.0.0"
+  },
+  "dependencies": {
+    "build": "^0.1.4",
+    "node-gyp": "^9.0.0"
   }
 }
